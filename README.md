@@ -33,7 +33,7 @@ In Visual Studio Community 2022 open the project and run it regularly.
 ## Authors ✒️
 
 * **Camilo Sinning** - *Design, Programming* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
-* **Leonardo Vergara** - *Programming* - [vergaraldvm](https://github.com/vergaraldvm)
+* **Leonardo Vergara** - *Programming* - [leovergaramarq](https://github.com/leovergaramarq)
 * **Eliana Velasquez** - *Programming* - [EliMeer](https://github.com/EliMeer)
 
 See the list of all [contributors](https://github.com/CamiloSinningUN/PagingSimulator/contributors) who have participated in this project.
